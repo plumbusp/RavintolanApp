@@ -5,13 +5,13 @@ It has dynamic UI updates, event-driven design and modular structure. It persist
 
 ---
 
-The project extensively applies OOP, including:
+### 📌 The project extensively applies OOP, including:
 
 - **Inheritance** to share common behavior and enable polymorphism (e.g all shop items inheriting logic from the ShopItem class)
 - **Abstraction** to define flexible interfaces (e.g. how DataObject class handles new info addition about current ShopItems)
 - **Encapsulation** to isolate implementation details (can be found throughout all scripts)
 
-Design Patterns used:
+### 📌 Design Patterns used:
 - **Factory** – for controlled creation of menu items (e.g in ShopItemViewFactory)
 - **Observer** – for reacting to state and UI changes (e.g. in CartItemView/Item objects)
 
