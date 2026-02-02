@@ -1,7 +1,7 @@
 # 🍽️ Restaurant App
 
 A Unity-based interactive restaurant application built with C#. The app handles order creation, menu item filtering, and stores orders in .txt files on the local machine.
-It has dynamic UI updates, event-driven design and modular structure. It persists application state between sessions and includes a separate requester login for confirming orders.
+It has dynamic UI updates, event-driven design and modular structure. It persists application state between sessions.
 
 ---
 
